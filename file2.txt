@@ -2,3 +2,4 @@ Second file
 what s up
 
 user2
+line 2
